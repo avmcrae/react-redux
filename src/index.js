@@ -8,6 +8,8 @@ import Page from './components/page/page';
 import HelloWorld from './components/helloWorld/helloWorld';
 import NotFound from './components/notFound/notFound';
 
+require('./application.scss');
+
 ReactDOM.render(
   <Router history={browserHistory}>
     <Route path="/" component={Page}>
