@@ -2,12 +2,16 @@
 
 ## Technologies used
 
-### React
-### Webpack
-### Babel
+#### React
+#### Webpack
+#### Babel
 
 ## Testing Tools
 
-### Mocha
-### Chai
-### Enzyme
+#### Mocha
+#### Chai
+#### Enzyme
+
+## Linting
+
+#### ESLint
